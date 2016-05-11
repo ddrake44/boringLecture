@@ -1,0 +1,33 @@
+h1.intro {
+  font-weight: bold;
+  font-size: 50px;
+  color: red;
+  margin-left: 35px;
+}
+
+h2.intro {
+  font-style: oblique;
+  color: blue;
+  font-size: 35px;
+  margin-left: 35px;
+}
+
+p.intro {
+  font-style: italic;
+  font-size: 30px;
+  text-transform:full-width;
+  text-align: center;
+}
+
+img.intro{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.content {
+  line-height: 25px;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
