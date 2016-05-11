@@ -1,15 +1,16 @@
-h1.intro {
+.intro {
   font-weight: bold;
-  font-size: 50px;
+  font-size: 30px;
   color: red;
   margin-left: 35px;
+  line-height: 35px;
 }
 
 h2.intro {
   font-style: oblique;
   color: blue;
-  font-size: 35px;
-  margin-left: 35px;
+  font-size: 50px;
+  margin-left: 50px;
 }
 
 p.intro {
@@ -17,6 +18,7 @@ p.intro {
   font-size: 30px;
   text-transform:full-width;
   text-align: center;
+  color: black;
 }
 
 img.intro{
